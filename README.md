@@ -1,2 +1,3 @@
-# Fily_issues
-Here you can report any issue 
+# Fily bug tracker
+**Please report any issue or feature you have**
+
