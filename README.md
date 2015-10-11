@@ -6,6 +6,6 @@
 - HTTP-Server to brows and add files
 - Added Webservices for HTTP-Server
 - Filemanager (Delete, Move, Create, Copy files)
-- Added support for Images (also GIF), Text, HTML, PDF
+- Added support for Images (also GIF), Text, HTML, PDF, ZIP
 - Costume vector-file-icons
 
